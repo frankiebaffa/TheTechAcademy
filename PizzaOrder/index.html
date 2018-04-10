@@ -1,0 +1,373 @@
+<!--==============================
+        Frankie Baffa's
+        JavaScript final
+===============================-->
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <!-- Required meta tags -->
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+        <!-- Bootstrap CSS -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+
+        <!-- Style.css -->
+        <link rel="stylesheet" href="./css/style.css">
+
+        <!-- Title -->
+        <title>
+            Baffa's Pizza
+        </title>
+
+    </head>
+
+    <!-- Content -->
+    <body>
+        <div class="container">
+
+            <!-- Head of Page -->
+            <div class="row">
+                <div class="col caption">
+                    <p>
+                        Baffa's Pizza
+                    </p>
+                </div>
+            </div>
+            <img src="./img/pizza.jpg" alt="Pizza" class="img-fluid" id="home">
+            <div class="caption">
+            </div>
+
+            <!-- Ordering Header -->
+            <div class="row">
+                <div class="col header">
+                    <p>
+                        Order Here
+                    </p>
+                </div>
+            </div>
+            <!--/Ordering Header -->
+
+            <!-- Ordering Subheader -->
+            <div class="row">
+                <div class="col subheader">
+                    <p>
+                        Your first meat and veggie is on us!
+                    </p>
+                    <br>
+                </div>
+            </div>
+            <!--/Ordering Subheader -->
+
+            <!-- Order Forms-->
+            <form class="" id="orderForm">
+                <div class="row">
+                <!-- Sizes -->
+                    <div class="col">
+                        <h1 class="selection">
+                            Size:
+                        </h1>
+
+                        <!-- Sizes Radio -->
+                        <div class="form-check">
+                            <input class="form-check-input size" type="radio" name="sizeRadio" id="sizeRadio1" value="Personal">
+                            <label class="form-check-label" for="sizeRadio1">
+                                Personal
+                            </label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input size" type="radio" name="sizeRadio" id="sizeRadio2" value="Medium" checked>
+                            <label class="form-check-label" for="sizeRadio2">
+                                Medium
+                            </label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input size" type="radio" name="sizeRadio" id="sizeRadio3" value="Large">
+                            <label class="form-check-label" for="sizeRadio3">
+                                Large
+                            </label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input size" type="radio" name="sizeRadio" id="sizeRadio4" value="Extra Large">
+                            <label class="form-check-label" for="sizeRadio4">
+                                Extra Large
+                            </label>
+                        </div>
+                        <!--/Sizes Radio -->
+
+                    </div>
+                    <!--/Sizes -->
+
+                    <!-- Sauces -->
+                    <div class="col">
+                        <h1 class="selection">
+                            Sauce:
+                        </h1>
+
+                        <!--Sauces Radio-->
+                        <div class="form-check">
+                            <input class="form-check-input" type="radio" name="sauceRadio" id="sauceRadio1" value="Marinara Sauce" checked>
+                            <label class="form-check-label" for="sauceRadio1">
+                                Marinara
+                            </label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="radio" name="sauceRadio" id="sauceRadio2" value="White Sauce">
+                            <label class="form-check-label" for="sauceRadio2">
+                                White
+                            </label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="radio" name="sauceRadio" id="sauceRadio3" value="Barbeque Sauce">
+                            <label class="form-check-label" for="sauceRadio3">
+                                Barbeque
+                            </label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="radio" name="sauceRadio" id="sauceRadio4" value="No Sauce">
+                            <label class="form-check-label" for="sauceRadio4">
+                                No Sauce
+                            </label>
+                        </div>
+                        <!--/Sauces Radio-->
+
+                    </div>
+                    <!--/Sauces -->
+
+                    <!-- Cheeses -->
+                    <div class="col">
+                        <h1 class="selection">
+                            Cheese:
+                        </h1>
+
+                        <!-- Cheeses Radio -->
+                        <div class="form-check">
+                            <input class="form-check-input" type="radio" name="cheeseRadio" id="cheeseRadio1" value="Regular Cheese" checked>
+                            <label class="form-check-label" for="cheeseRadio1">
+                                Regular
+                            </label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="radio" name="cheeseRadio" id="cheeseRadio2" value="No Cheese">
+                            <label class="form-check-label" for="cheeseRadio2">
+                                No Cheese
+                            </label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="radio" name="cheeseRadio" id="cheeseRadio3" value="Extra Cheese">
+                            <label class="form-check-label" for="cheeseRadio3">
+                                Extra Cheese
+                            </label>
+                        </div>
+                        <!--/Cheeses Radio -->
+
+                    </div>
+                    <!--/Cheeses -->
+
+                    <!-- Crusts -->
+                    <div class="col">
+                        <h1 class="selection">
+                            Crust:
+                        </h1>
+
+                        <!-- Crusts Radio -->
+                        <div class="form-check">
+                            <input class="form-check-input" type="radio" name="crustRadio" id="crustRadio1" value="Cheese Stuffed">
+                            <label class="form-check-label" for="crustRadio1">
+                                Cheese Stuffed
+                            </label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="radio" name="crustRadio" id="crustRadio2" value="Plain Crust" checked>
+                            <label class="form-check-label" for="crustRadio2">
+                                Plain
+                            </label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="radio" name="crustRadio" id="crustRadio3" value="Garlic Butter Crust">
+                            <label class="form-check-label" for="crustRadio3">
+                                Garlic Butter
+                            </label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="radio" name="crustRadio" id="crustRadio4" value="Spicy Crust">
+                            <label class="form-check-label" for="crustRadio4">
+                                Spicy
+                            </label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="radio" name="crustRadio" id="crustRadio5" value="House Special Crust">
+                            <label class="form-check-label" for="crustRadio5">
+                                House Special
+                            </label>
+                        </div>
+                        <!--/Crusts Radio -->
+
+                    </div>
+                    <!--/Crusts -->
+
+                    <!-- Meats -->
+                    <div class="col">
+                        <h1 class="selection">
+                            Meat:
+                        </h1>
+
+                        <!-- Meats List -->
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" name="meatList" value="Anchovy" id="meatList1">
+                            <label class="form-check-label" for="meatList1">
+                                Anchovy
+                            </label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" name="meatList" value="Canadian Bacon" id="meatList2">
+                            <label class="form-check-label" for="meatList2">
+                                Canadian Bacon
+                            </label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" name="meatList" value="Chicken" id="meatList3">
+                            <label class="form-check-label" for="meatList3">
+                                Chicken
+                            </label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" name="meatList" value="Ground Beef" id="meatList4">
+                            <label class="form-check-label" for="meatList4">
+                                Ground Beef
+                            </label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" name="meatList" value="Pepperoni" id="meatList5">
+                            <label class="form-check-label" for="meatList5">
+                                Pepperoni
+                            </label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" name="meatList" value="Sausage" id="meatList6">
+                            <label class="form-check-label" for="meatList6">
+                                Sausage
+                            </label>
+                        </div>
+                        <!--/Meats List -->
+
+                    </div>
+                    <!--/Meat -->
+
+                    <!-- Veggies -->
+                    <div class="col">
+                        <h1 class="selection">
+                            Veggies:
+                        </h1>
+
+                        <!-- Veggie Radio -->
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" name="veggieList" value="Green Pepper" id="veggieList1">
+                            <label class="form-check-label" for="veggieList1">
+                                Green Pepper
+                            </label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" name="veggieList" value="Jalapeño" id="veggieList2">
+                            <label class="form-check-label" for="veggieList2">
+                                Jalapeño
+                            </label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" name="veggieList" value="Mushroom" id="veggieList3">
+                            <label class="form-check-label" for="veggieList3">
+                                Mushroom
+                            </label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" name="veggieList" value="Olive" id="veggieList4">
+                            <label class="form-check-label" for="veggieList4">
+                                Olive
+                            </label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" name="veggieList" value="Onion" id="veggieList5">
+                            <label class="form-check-label" for="veggieList5">
+                                Onion
+                            </label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" name="veggieList" value="Pineapple" id="veggieList6">
+                            <label class="form-check-label" for="veggieList6">
+                                Pineapple
+                            </label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" name="veggieList" value="Spinach" id="veggieList7">
+                            <label class="form-check-label" for="veggieList7">
+                                Spinach
+                            </label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" name="veggieList" value="Tomato" id="veggieList8">
+                            <label class="form-check-label" for="veggieList8">
+                                Tomato
+                            </label>
+                        </div>
+                        <!--/Veggie Radio -->
+
+                    </div>
+                    <!--/Veggies -->
+                </div>
+            </form>
+            <!--/Order Forms -->
+
+            <!-- Order Button -->
+            <div class="row">
+                <div class="col">
+                    <a type="button" class="btn btn-primary btn-lg btn-block button" id="orderButton" onclick="genReceipt()" href="#cart">Place Order</a>
+                </div>
+            </div>
+            <!--/Order Button -->
+
+            <!-- Receipt -->
+            <div class="invisible" id="cart">
+                <div class="row">
+                    <div class="col header">
+                        <p>
+                            Your Order
+                        </p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col">
+        				<div id="title1"><h3>You Ordered:</h3></div>
+                        <div class="item" id="showText1">
+                        </div>
+                    </div>
+                    <div class="col">
+        				<div id="title2"><h3>Subtotal:</h3></div>
+        				<div class="subtotal" id="showText2">
+                        </div>
+                    </div>
+                    <div class="col">
+        				<div id="totalPrice1"><h3>Total Price:</h3></div>
+        				<div class="total" id="totalPrice2">
+                            <p></p>
+                        </div>
+        			</div>
+                </div>
+            </div>
+            <!--/Receipt -->
+
+            <!-- Clear Order -->
+            <div class="row">
+                <div class="col">
+                    <button type="button" class="btn btn-primary btn-lg btn-block invisible button" id="clearButton" onclick="clearForm()">Reset Order</button>
+                </div>
+            </div>
+            <!--/Clear Order -->
+
+        </div>
+        <!-- jQuery first, then Tether, then Bootstrap JS. -->
+        <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
+        <script src="script.js"></script>
+    </body>
+</html>

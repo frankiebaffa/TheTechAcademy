@@ -1,0 +1,12 @@
+C:\Users\Frankie\source\repos\EntityCustomerCar\EntityCustomerCar\obj\Debug\EntityCustomerCar.csprojResolveAssemblyReference.cache
+C:\Users\Frankie\source\repos\EntityCustomerCar\EntityCustomerCar\obj\Debug\EntityCustomerCar.csproj.CoreCompileInputs.cache
+C:\Users\Frankie\source\repos\EntityCustomerCar\EntityCustomerCar\bin\Debug\EntityCustomerCar.exe.config
+C:\Users\Frankie\source\repos\EntityCustomerCar\EntityCustomerCar\bin\Debug\EntityCustomerCar.exe
+C:\Users\Frankie\source\repos\EntityCustomerCar\EntityCustomerCar\bin\Debug\EntityCustomerCar.pdb
+C:\Users\Frankie\source\repos\EntityCustomerCar\EntityCustomerCar\bin\Debug\EntityFramework.dll
+C:\Users\Frankie\source\repos\EntityCustomerCar\EntityCustomerCar\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Frankie\source\repos\EntityCustomerCar\EntityCustomerCar\bin\Debug\EntityFramework.xml
+C:\Users\Frankie\source\repos\EntityCustomerCar\EntityCustomerCar\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Frankie\source\repos\EntityCustomerCar\EntityCustomerCar\obj\Debug\EntityCustomerCar.csproj.CopyComplete
+C:\Users\Frankie\source\repos\EntityCustomerCar\EntityCustomerCar\obj\Debug\EntityCustomerCar.exe
+C:\Users\Frankie\source\repos\EntityCustomerCar\EntityCustomerCar\obj\Debug\EntityCustomerCar.pdb

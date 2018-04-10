@@ -1,0 +1,7 @@
+C:\Users\Frankie\source\repos\TAChallengeHeroMonsterClasses\TAChallengeHeroMonsterClasses\bin\TAChallengeHeroMonsterClasses.dll.config
+C:\Users\Frankie\source\repos\TAChallengeHeroMonsterClasses\TAChallengeHeroMonsterClasses\bin\TAChallengeHeroMonsterClasses.dll
+C:\Users\Frankie\source\repos\TAChallengeHeroMonsterClasses\TAChallengeHeroMonsterClasses\bin\TAChallengeHeroMonsterClasses.pdb
+C:\Users\Frankie\source\repos\TAChallengeHeroMonsterClasses\TAChallengeHeroMonsterClasses\obj\Debug\TAChallengeHeroMonsterClasses.csproj.CoreCompileInputs.cache
+C:\Users\Frankie\source\repos\TAChallengeHeroMonsterClasses\TAChallengeHeroMonsterClasses\obj\Debug\TAChallengeHeroMonsterClasses.dll
+C:\Users\Frankie\source\repos\TAChallengeHeroMonsterClasses\TAChallengeHeroMonsterClasses\obj\Debug\TAChallengeHeroMonsterClasses.pdb
+C:\Users\Frankie\source\repos\TAChallengeHeroMonsterClasses\TAChallengeHeroMonsterClasses\obj\Debug\TAChallengeHeroMonsterClasses.csprojResolveAssemblyReference.cache

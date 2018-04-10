@@ -1,0 +1,61 @@
+body{
+    background-color: #000000;
+}
+.img-fluid{
+    max-width: 100%;
+    height: auto;
+    padding-top: 25px;
+}
+.caption{
+    position: relative;
+    text-align: center;
+    color: #fff;
+    font-family: courier;
+    font-size: 50px;
+    text-shadow: 2px 2px #000;
+}
+.capOne{
+    text-align: left;
+}
+.capTwo{
+    text-align: right;
+}
+.header{
+    font-size:50px;
+    font-family: courier;
+    color: #fff;
+    text-align: center;
+}
+.subheader{
+    font-size: 25px;
+    font-family: courier;
+    color: #fff;
+    text-align: center;
+}
+.selection{
+    font-family: courier;
+    font-size: 30px;
+    color: #ffffff
+}
+.form-check-label{
+    color: #ffffff
+}
+#cart{
+    font-family: courier;
+    font-size: 25px;
+    color: #ffffff;
+}
+#title1{
+    text-align: right;
+}
+.item,
+.subtotal{
+    font-size: 15px;
+}
+.item{
+    text-align: right;
+}
+.button{
+    color: #000;
+    font-family: courier;
+}

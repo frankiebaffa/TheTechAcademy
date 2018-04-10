@@ -1,0 +1,7 @@
+C:\Users\Frankie\source\repos\TAChallengeSimpleDarts\TAChallengeSimpleDarts\bin\TAChallengeSimpleDarts.dll.config
+C:\Users\Frankie\source\repos\TAChallengeSimpleDarts\TAChallengeSimpleDarts\bin\TAChallengeSimpleDarts.dll
+C:\Users\Frankie\source\repos\TAChallengeSimpleDarts\TAChallengeSimpleDarts\bin\TAChallengeSimpleDarts.pdb
+C:\Users\Frankie\source\repos\TAChallengeSimpleDarts\TAChallengeSimpleDarts\obj\Debug\TAChallengeSimpleDarts.csprojResolveAssemblyReference.cache
+C:\Users\Frankie\source\repos\TAChallengeSimpleDarts\TAChallengeSimpleDarts\obj\Debug\TAChallengeSimpleDarts.csproj.CoreCompileInputs.cache
+C:\Users\Frankie\source\repos\TAChallengeSimpleDarts\TAChallengeSimpleDarts\obj\Debug\TAChallengeSimpleDarts.dll
+C:\Users\Frankie\source\repos\TAChallengeSimpleDarts\TAChallengeSimpleDarts\obj\Debug\TAChallengeSimpleDarts.pdb
