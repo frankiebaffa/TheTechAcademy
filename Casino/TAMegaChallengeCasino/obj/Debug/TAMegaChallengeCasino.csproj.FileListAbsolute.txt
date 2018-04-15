@@ -1,0 +1,6 @@
+Y:\Documents\TheTechAcademy\Casino\TAMegaChallengeCasino\bin\TAMegaChallengeCasino.dll.config
+Y:\Documents\TheTechAcademy\Casino\TAMegaChallengeCasino\bin\TAMegaChallengeCasino.dll
+Y:\Documents\TheTechAcademy\Casino\TAMegaChallengeCasino\bin\TAMegaChallengeCasino.pdb
+Y:\Documents\TheTechAcademy\Casino\TAMegaChallengeCasino\obj\Debug\TAMegaChallengeCasino.csproj.CoreCompileInputs.cache
+Y:\Documents\TheTechAcademy\Casino\TAMegaChallengeCasino\obj\Debug\TAMegaChallengeCasino.dll
+Y:\Documents\TheTechAcademy\Casino\TAMegaChallengeCasino\obj\Debug\TAMegaChallengeCasino.pdb

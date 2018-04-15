@@ -1,0 +1,7 @@
+Y:\Documents\TheTechAcademy\CSharpChallengeApp\ChallengeApp\bin\ChallengeApp.dll.config
+Y:\Documents\TheTechAcademy\CSharpChallengeApp\ChallengeApp\bin\ChallengeApp.dll
+Y:\Documents\TheTechAcademy\CSharpChallengeApp\ChallengeApp\bin\ChallengeApp.pdb
+Y:\Documents\TheTechAcademy\CSharpChallengeApp\ChallengeApp\obj\Debug\ChallengeApp.csprojResolveAssemblyReference.cache
+Y:\Documents\TheTechAcademy\CSharpChallengeApp\ChallengeApp\obj\Debug\ChallengeApp.csproj.CoreCompileInputs.cache
+Y:\Documents\TheTechAcademy\CSharpChallengeApp\ChallengeApp\obj\Debug\ChallengeApp.dll
+Y:\Documents\TheTechAcademy\CSharpChallengeApp\ChallengeApp\obj\Debug\ChallengeApp.pdb
